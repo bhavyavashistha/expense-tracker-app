@@ -1,31 +1,21 @@
-# Expense Tracker (MERN)
+# Expense Tracker Web Application
 
-> Full stack expense tracker
+A full-stack expense tracking web application built using the MERN stack.
 
-## Usage
+## Features
+- Add and manage expenses
+- Categorize transactions
+- Dashboard analytics
+- Responsive UI
 
-```
-change config.env file in config folder
-```
+## Tech Stack
+- React.js
+- Node.js
+- Express.js
+- MongoDB
 
-```
- npm install
- cd client npm install
- cd ..
- 
- # Run front and backend
- npm run dev
- 
- # Backend only
- npm run server
- 
- # Frontend only
- npm run client
- 
- # Build client
- cd client
- npm run build
- 
- # Prod
- npm start
+## Installation
+```bash
+npm install
+npm start
 ```
